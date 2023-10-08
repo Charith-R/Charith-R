@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Charith-R/Charith-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![An image of @charithr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charithr)](https://holopin.io/@charithr)
+
